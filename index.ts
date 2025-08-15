@@ -1,5 +1,6 @@
 import axios from "axios";
 import data from "./data.json";
+import fs from "fs";
 
 // Keep important epochs (sorted for safety)
 const importantEpochs = [805, 806, 807, 823, 824, 825, 796, 795, 797].sort(
@@ -46,7 +47,7 @@ const filterEpochData = (rows: StakeData[]): FilteredStakeData => {
 	const map = new Map<number, number>();
 	for (const epoch of importantEpochs) {
 		const stake = rows.find((d) => d.epoch === epoch)?.stake ?? 0;
-		// Scale down to "stake units" (you had / 1e9)
+		// Scale down to "stake units"
 		map.set(epoch, stake / 1_000_000_000);
 	}
 	return { map };
@@ -66,6 +67,33 @@ const growth = (from: number, to: number) => {
 
 const fmtPct = (p: number | null) =>
 	p === null ? "n/a" : `${(p * 100).toFixed(2)}%`;
+
+/** Create an ASCII table string from rows (like console.table, but capturable) */
+const toTable = (rows: Array<Record<string, string | number>>): string => {
+	if (!rows.length) return "";
+	const headers = Object.keys(rows[0]);
+	const colWidths = headers.map((h) =>
+		Math.max(h.length, ...rows.map((r) => String(r[h]).length)),
+	);
+
+	const sep = "+" + colWidths.map((w) => "-".repeat(w + 2)).join("+") + "+";
+	const headerLine =
+		"|" +
+		headers.map((h, i) => " " + h.padEnd(colWidths[i]) + " ").join("|") +
+		"|";
+	const rowLines = rows
+		.map(
+			(r) =>
+				"|" +
+				headers
+					.map((h, i) => " " + String(r[h]).padEnd(colWidths[i]) + " ")
+					.join("|") +
+				"|",
+		)
+		.join("\n");
+
+	return [sep, headerLine, sep, rowLines, sep].join("\n");
+};
 
 const main = async () => {
 	const identities = readData();
@@ -89,32 +117,32 @@ const main = async () => {
 				G1_avg: g1,
 				G2_avg: g2,
 				G3_avg: g3,
-				G1_to_G2_abs: g1g2.abs,
 				G1_to_G2_pct: g1g2.pct,
-				G2_to_G3_abs: g2g3.abs,
 				G2_to_G3_pct: g2g3.pct,
-				G1_to_G3_abs: g1g3.abs,
 				G1_to_G3_pct: g1g3.pct,
 			};
 		}),
 	);
 
-	// Pretty print per identity
+	// Build display rows (same as your console.table columns)
+	const displayRows = perIdentity.map((r) => ({
+		identity: r.identity,
+		"G1 avg (795-797)": r.G1_avg.toFixed(6),
+		"G2 avg (805-807)": r.G2_avg.toFixed(6),
+		"G3 avg (823-825)": r.G3_avg.toFixed(6),
+		"G1→G2 %": fmtPct(r.G1_to_G2_pct),
+		"G2→G3 %": fmtPct(r.G2_to_G3_pct),
+		"G1→G3 %": fmtPct(r.G1_to_G3_pct),
+	}));
+
+	// Create ASCII table string
+	const tableStr = toTable(displayRows);
+
+	// Print to console (optional) and write to avg.txt
 	console.log("\nPer-identity averages and growth:");
-	console.table(
-		perIdentity.map((r) => ({
-			identity: r.identity,
-			"G1 avg (795-797)": r.G1_avg.toFixed(6),
-			"G2 avg (805-807)": r.G2_avg.toFixed(6),
-			"G3 avg (823-825)": r.G3_avg.toFixed(6),
-			// "G1→G2 abs": r.G1_to_G2_abs.toFixed(6),
-			"G1→G2 %": fmtPct(r.G1_to_G2_pct),
-			// "G2→G3 abs": r.G2_to_G3_abs.toFixed(6),
-			"G2→G3 %": fmtPct(r.G2_to_G3_pct),
-			// "G1→G3 abs": r.G1_to_G3_abs.toFixed(6),
-			"G1→G3 %": fmtPct(r.G1_to_G3_pct),
-		})),
-	);
+	console.log(tableStr);
+
+	fs.writeFileSync("avg.txt", tableStr + "\n", "utf8");
 };
 
 main().catch((e) => {
