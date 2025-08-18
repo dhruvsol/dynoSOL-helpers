@@ -1,0 +1,533 @@
+[
+  {
+    "validatorKeys": {
+      "identity": "Ha1iade1AH3B12K9SccfWoPdFtQKKQsj2ZyWwxcjqJJU",
+      "voteAccount": "Ha1VoTEPWFQp1wZjbQhBNXJftuHvimu1ruzF3xKYRPDQ"
+    },
+    "currentStake": 25332547143162,
+    "transientStakeLamports": 0,
+    "logo": "https://media.stakewiz.com/Ha1VoTEPWFQp1wZjbQhBNXJftuHvimu1ruzF3xKYRPDQ-.png"
+  },
+  {
+    "validatorKeys": {
+      "identity": "ETcW7iuVraMKLMJayNCCsr9bLvKrJPDczy1CMVMPmXTc",
+      "voteAccount": "C616NHpqpaiYpqVAv619QL73vEqKJs1mjsJLtAuCzMX6"
+    },
+    "currentStake": 25350908829322,
+    "transientStakeLamports": 0,
+    "logo": "https://media.stakewiz.com/C616NHpqpaiYpqVAv619QL73vEqKJs1mjsJLtAuCzMX6-logo.png"
+  },
+  {
+    "validatorKeys": {
+      "identity": "SscQkTYV2BFQYGGffAmTzvefrFrw6z9GNYiWHstVZ77",
+      "voteAccount": "sShosKd6uA5c1ZpVMxdsE6do13TLRWSMYsXbSMmNC77"
+    },
+    "currentStake": 7668104019855,
+    "transientStakeLamports": 0,
+    "logo": "https://media.stakewiz.com/sShosKd6uA5c1ZpVMxdsE6do13TLRWSMYsXbSMmNC77-dogo.png"
+  },
+  {
+    "validatorKeys": {
+      "identity": "icex1C6pnZxznQWiHZZANjGU8nZ8kNquFnjyY7XXrXE",
+      "voteAccount": "votem3UdGx5xWFbY9EFbyZ1X2pBuswfR5yd2oB3JAaj"
+    },
+    "currentStake": 25350660399708,
+    "transientStakeLamports": 0,
+    "logo": "https://media.stakewiz.com/votem3UdGx5xWFbY9EFbyZ1X2pBuswfR5yd2oB3JAaj-.png"
+  },
+  {
+    "validatorKeys": {
+      "identity": "H9ENbtmy2tWFtAJNmpC8xQtbcr1NTp4FXLdphRaG8L2T",
+      "voteAccount": "BH2PMb9vuHxkVFMMHbH8iudCoBfUoX5tVaHfnEkKJ2gQ"
+    },
+    "currentStake": 25350970423494,
+    "transientStakeLamports": 0,
+    "logo": "https://media.stakewiz.com/BH2PMb9vuHxkVFMMHbH8iudCoBfUoX5tVaHfnEkKJ2gQ-.png"
+  },
+  {
+    "validatorKeys": {
+      "identity": "AccReGBNBdUCEJ7ZyP231jw7uVJ3eF9u4cLBFAyqQuWm",
+      "voteAccount": "ACCRENAtboR1MyyoiPvwNZNkjt1GcLARrACh6hZXdddF"
+    },
+    "currentStake": 7635628326772,
+    "transientStakeLamports": 0,
+    "logo": "https://media.stakewiz.com/ACCRENAtboR1MyyoiPvwNZNkjt1GcLARrACh6hZXdddF-logo.png"
+  },
+  {
+    "validatorKeys": {
+      "identity": "THWsLPufeq9LWs2H9vYPbtFwdxAHbQHvSbT6pztG8x1",
+      "voteAccount": "THWfRpcJSC7oDrNMSCcixTZmCHVBTEVQL4qnd1UTD1x"
+    },
+    "currentStake": 7709762528875,
+    "transientStakeLamports": 0,
+    "logo": "https://media.stakewiz.com/THWfRpcJSC7oDrNMSCcixTZmCHVBTEVQL4qnd1UTD1x-51244Jr1_400x400.png"
+  },
+  {
+    "validatorKeys": {
+      "identity": "metaLond2yfFxCN48HBZGScfbKge6nV61EHYEphRwwR",
+      "voteAccount": "metaRWEc85haGPz6P79kiuG3F8JXKjR7oQr2zjokUCU"
+    },
+    "currentStake": 7698924982614,
+    "transientStakeLamports": 0,
+    "logo": "https://media.stakewiz.com/metaRWEc85haGPz6P79kiuG3F8JXKjR7oQr2zjokUCU-.png"
+  },
+  {
+    "validatorKeys": {
+      "identity": "radM7PKUpZwJ9bYPAJ7V8FXHeUmH1zim6iaXUKkftP9",
+      "voteAccount": "radYEig9KGrMTMWbWRFV7LStotQbnLgPaEFHVDsudQz"
+    },
+    "currentStake": 7520401977783,
+    "transientStakeLamports": 0,
+    "logo": "https://media.stakewiz.com/radYEig9KGrMTMWbWRFV7LStotQbnLgPaEFHVDsudQz-apple-touch-icon.png"
+  },
+  {
+    "validatorKeys": {
+      "identity": "phz1CRbEsCtFCh2Ro5tjyu588VU1WPMwW9BJS9yFNn2",
+      "voteAccount": "phz34EcgWRCT9otPzRS2JtSzVHxQJk4SovqJvV1TQk8"
+    },
+    "currentStake": 7520415517192,
+    "transientStakeLamports": 0,
+    "logo": "https://media.stakewiz.com/phz34EcgWRCT9otPzRS2JtSzVHxQJk4SovqJvV1TQk8-.png"
+  },
+  {
+    "validatorKeys": {
+      "identity": "BPKAfGkkzF5u1QRjjB1nWYYbPMUCMPJe1xZPmwEMNMCT",
+      "voteAccount": "9Gko8QZBbV5SrEvHKtQHcMrGGSfgFP3KJUozEGifu25x"
+    },
+    "currentStake": 7643164255026,
+    "transientStakeLamports": 0,
+    "logo": "https://s3.amazonaws.com/keybase_processed_uploads/d6c0f46ff553d80c101c974324a1ab05_360_360.jpg"
+  },
+  {
+    "validatorKeys": {
+      "identity": "BFMufPp4wW276nFzB7FVHgtY8FTahzn53kxxJaNpPGu6",
+      "voteAccount": "7K8DVxtNJGnMtUY1CQJT5jcs8sFGSZTDiG7kowvFpECh"
+    },
+    "currentStake": 10288381959919,
+    "transientStakeLamports": 0,
+    "logo": "https://media.stakewiz.com/7K8DVxtNJGnMtUY1CQJT5jcs8sFGSZTDiG7kowvFpECh-solanahub-icon.png"
+  },
+  {
+    "validatorKeys": {
+      "identity": "NdMV1C3XMCRqSBwBtNmoUNnKctYh95Ug4xb6FSTcAWr",
+      "voteAccount": "NeodymeDFipD7eA1ShrLJAZTBdHWcFsDB9YkoHshZNk"
+    },
+    "currentStake": 7725895174709,
+    "transientStakeLamports": 0,
+    "logo": "https://media.stakewiz.com/NeodymeDFipD7eA1ShrLJAZTBdHWcFsDB9YkoHshZNk-nd_validator.png"
+  },
+  {
+    "validatorKeys": {
+      "identity": "SQDS9iwyWvT2mQbSZzuNKGoxuBug5jRHouF6SuMRBkA",
+      "voteAccount": "SQDSVTDfE5HqL7D6RjZk1vvZhaheWoskrDdDHCki68w"
+    },
+    "currentStake": 7685852555177,
+    "transientStakeLamports": 0,
+    "logo": "https://media.stakewiz.com/SQDSVTDfE5HqL7D6RjZk1vvZhaheWoskrDdDHCki68w-squads-validator.png"
+  },
+  {
+    "validatorKeys": {
+      "identity": "91oPXTs2oq8VvJpQ5TnvXakFGnnJSpEB6HFWDtSctwMt",
+      "voteAccount": "Ac1beBKixfNdrTAac7GRaTsJTxLyvgGvJjvy4qQfvyfc"
+    },
+    "currentStake": 7704580005253,
+    "transientStakeLamports": 0,
+    "logo": "https://media.stakewiz.com/Ac1beBKixfNdrTAac7GRaTsJTxLyvgGvJjvy4qQfvyfc-stronghold_logo.png"
+  },
+  {
+    "validatorKeys": {
+      "identity": "NordEHiwa6wT5TCjdeWJzpsA7DSmWQPqfSS7m2b6cv3",
+      "voteAccount": "NoRDTy8jpkpjPR7yxahVdoEUPngbojPhFU5jb8TtY4m"
+    },
+    "currentStake": 7709762203368,
+    "transientStakeLamports": 0,
+    "logo": "https://media.stakewiz.com/NoRDTy8jpkpjPR7yxahVdoEUPngbojPhFU5jb8TtY4m-favicon.png"
+  },
+  {
+    "validatorKeys": {
+      "identity": "SyndicAgdEphcy5xhAKZAomTYhcF8xhC7za2UD9xeug",
+      "voteAccount": "SyNdica7qx3njeVKNgXvV7KC1NjPYNS4fyb3NxgevLH"
+    },
+    "currentStake": 3296888,
+    "transientStakeLamports": 0,
+    "logo": "https://media.stakewiz.com/SyNdica7qx3njeVKNgXvV7KC1NjPYNS4fyb3NxgevLH-icon.png"
+  },
+  {
+    "validatorKeys": {
+      "identity": "4uH4G6YiD5G8rU3mtPg73C2Uqamrqedy3FboTZcZrh6x",
+      "voteAccount": "EJHf5N9is5spAF5Kz384tTvTV3CwTka6qzUoZrYm53SV"
+    },
+    "currentStake": 7692668947849,
+    "transientStakeLamports": 0,
+    "logo": "https://media.stakewiz.com/EJHf5N9is5spAF5Kz384tTvTV3CwTka6qzUoZrYm53SV-windfall_360.png"
+  },
+  {
+    "validatorKeys": {
+      "identity": "DP9iBgK9c7tJYb83KhxQMFNc1LXYu7nE7EhWpEzQnjmg",
+      "voteAccount": "EnRcbgr5r7EUS2P35szncy6TW6eWA9UQiU3yQRCDbh2P"
+    },
+    "currentStake": 7635831827579,
+    "transientStakeLamports": 0,
+    "logo": "https://media.stakewiz.com/EnRcbgr5r7EUS2P35szncy6TW6eWA9UQiU3yQRCDbh2P-sec3_logo_solid.png"
+  },
+  {
+    "validatorKeys": {
+      "identity": "tkmaiSoZ3F8MofkQBVWG6JYSCzyN6ioe7ReYXohx3WJ",
+      "voteAccount": "TKMA1fBGq4M7gF2CNnhphX6vNateFc2cm2FL2mYwq7e"
+    },
+    "currentStake": 7701465734396,
+    "transientStakeLamports": 0,
+    "logo": "https://media.stakewiz.com/TKMA1fBGq4M7gF2CNnhphX6vNateFc2cm2FL2mYwq7e-tokami.png"
+  },
+  {
+    "validatorKeys": {
+      "identity": "8GLRbAstsabZuZUx73AoyfGi1FRCWSUhRgMugFyofEz7",
+      "voteAccount": "7PmWxxiTneGteGxEYvzj5pGDVMQ4nuN9DfUypEXmaA8o"
+    },
+    "currentStake": 3296896,
+    "transientStakeLamports": 0,
+    "logo": "https://s3.amazonaws.com/keybase_processed_uploads/6f8216af8c5805a9bde9098316e5e405_360_360.jpg"
+  },
+  {
+    "validatorKeys": {
+      "identity": "Tri1F8B6YtjkBztGCwBNSLEZib1EAqMUEUM7dTT7ZG3",
+      "voteAccount": "tri1cHBy47fPyhCvrCf6FnR7Mz6XdSoSBah2FsZVQeT"
+    },
+    "currentStake": 7725964333202,
+    "transientStakeLamports": 0,
+    "logo": "https://media.stakewiz.com/tri1cHBy47fPyhCvrCf6FnR7Mz6XdSoSBah2FsZVQeT-trillium-logo.png"
+  },
+  {
+    "validatorKeys": {
+      "identity": "PRGNnb8DxVcP2WjSHfVRGgc8SkA5u6dbMwoTVV1BGKN",
+      "voteAccount": "VotESBSkLKU8vebS6wTR2rzWWJsLc6YThYS6tebPxXq"
+    },
+    "currentStake": 7629423873321,
+    "transientStakeLamports": 0,
+    "logo": "https://media.stakewiz.com/VotESBSkLKU8vebS6wTR2rzWWJsLc6YThYS6tebPxXq-logo.png"
+  },
+  {
+    "validatorKeys": {
+      "identity": "C2ocKwTTZCDpwuyZuem7hih2pkpataAx21P5KHkKboko",
+      "voteAccount": "64nguvEcyUjXAqjjqMerVr6qW5jrDk1L8x9QwcFkzJJg"
+    },
+    "currentStake": 7669711462899,
+    "transientStakeLamports": 0,
+    "logo": "https://media.stakewiz.com/64nguvEcyUjXAqjjqMerVr6qW5jrDk1L8x9QwcFkzJJg-l2.png"
+  },
+  {
+    "validatorKeys": {
+      "identity": "hxMhrsuGPDmkLJ4mTxEjyeMST3VGhTiwJvS9XgHwePj",
+      "voteAccount": "hxVjzDmta9TuN1gM981TRKnfwG2uZ9TQDGwSCs3uDow"
+    },
+    "currentStake": 7703105673681,
+    "transientStakeLamports": 0,
+    "logo": "https://media.stakewiz.com/hxVjzDmta9TuN1gM981TRKnfwG2uZ9TQDGwSCs3uDow-.png"
+  },
+  {
+    "validatorKeys": {
+      "identity": "4fVW6e4Ww1JUPxnH4mqGLE1fgynsB6gcmPskTq1P3Bzk",
+      "voteAccount": "F6NegvXJ1J6D4sp59vWG51TEuzJ4kMmW9euXvKe8Mxsj"
+    },
+    "currentStake": 7700889352165,
+    "transientStakeLamports": 0,
+    "logo": "https://media.stakewiz.com/F6NegvXJ1J6D4sp59vWG51TEuzJ4kMmW9euXvKe8Mxsj-blockdaemon-mint.png"
+  },
+  {
+    "validatorKeys": {
+      "identity": "2374M8ZtmrpdY3ywb7fLqokSd2mRhvdJu2PUwoJmbTUh",
+      "voteAccount": "4565LXcdfFzN9bHqo1eCZRogsgQREf4oiyjoKuWu7XTX"
+    },
+    "currentStake": 7600895406000,
+    "transientStakeLamports": 0,
+    "logo": "https://media.stakewiz.com/4565LXcdfFzN9bHqo1eCZRogsgQREf4oiyjoKuWu7XTX-favicon.png"
+  },
+  {
+    "validatorKeys": {
+      "identity": "jagBNeXYncnn1hzwSq1JJ16XhWTgQ7DCFVqndSJZ6vT",
+      "voteAccount": "jag77EXci8uf5uGmKE5izaYvxBCS5H9U2rxWYh8BUUf"
+    },
+    "currentStake": 7647968477648,
+    "transientStakeLamports": 0,
+    "logo": "https://media.stakewiz.com/jag77EXci8uf5uGmKE5izaYvxBCS5H9U2rxWYh8BUUf-jagSOL.png"
+  },
+  {
+    "validatorKeys": {
+      "identity": "Pid6HQnMCFb9izqX9i7X6ePdUPieGmjHoPxC1Jfooix",
+      "voteAccount": "PineDoC593nrX16W8ZLWfF5Evb6otv7fRfZMLjPAHe3"
+    },
+    "currentStake": 7647999799953,
+    "transientStakeLamports": 0,
+    "logo": "https://media.stakewiz.com/PineDoC593nrX16W8ZLWfF5Evb6otv7fRfZMLjPAHe3-logo.png"
+  },
+  {
+    "validatorKeys": {
+      "identity": "adramSYKBv1yHoZTub4kepcmF5LybPxwyJcsz4fpfi7",
+      "voteAccount": "adraBKLNY3DL3pg6SJRDYiMA8BsznaWpUdE42X41gbP"
+    },
+    "currentStake": 7594355317134,
+    "transientStakeLamports": 0,
+    "logo": "https://media.stakewiz.com/adraBKLNY3DL3pg6SJRDYiMA8BsznaWpUdE42X41gbP-PzSwqj4J_400x400.png"
+  },
+  {
+    "validatorKeys": {
+      "identity": "dcntruDNP5SEcGV4RxnsqXFURdDZGT3DTQv68Q8H7Vu",
+      "voteAccount": "dcntrKBwh8j5yL62Eg96Z5QjJWv3UXxMu4rqL82w6Cb"
+    },
+    "currentStake": 7567430071022,
+    "transientStakeLamports": 0,
+    "logo": "https://media.stakewiz.com/dcntrKBwh8j5yL62Eg96Z5QjJWv3UXxMu4rqL82w6Cb-pfp-black.png"
+  },
+  {
+    "validatorKeys": {
+      "identity": "sbidYi7fbif6qNsMpwBKvyF5DKcLCbjaegpADsKqNux",
+      "voteAccount": "SBLZib4npE7svxFA7AsD3ytdQAfYNb39c8zsU82AA2E"
+    },
+    "currentStake": 7606987558370,
+    "transientStakeLamports": 0,
+    "logo": "https://media.stakewiz.com/SBLZib4npE7svxFA7AsD3ytdQAfYNb39c8zsU82AA2E-logo.png"
+  },
+  {
+    "validatorKeys": {
+      "identity": "8Nvaxzif1NrdvxNkRetjT8xJvd33EHkKVrfL8EDkgaNy",
+      "voteAccount": "2DNGsVZ9rg6RvT8bY4SGmGvyiVJ4xt9RL3NDd6uhfN46"
+    },
+    "currentStake": 7567964616328,
+    "transientStakeLamports": 0,
+    "logo": "https://media.stakewiz.com/2DNGsVZ9rg6RvT8bY4SGmGvyiVJ4xt9RL3NDd6uhfN46-.png"
+  },
+  {
+    "validatorKeys": {
+      "identity": "stacheBmGG5zMKuetUevAbc4m4dLbve1VPcpSur3voH",
+      "voteAccount": "sTach38ebT8jnGH8i2D1g8NDAS6An19whVMnSSWPXt4"
+    },
+    "currentStake": 7571200608211,
+    "transientStakeLamports": 0,
+    "logo": "https://media.stakewiz.com/sTach38ebT8jnGH8i2D1g8NDAS6An19whVMnSSWPXt4-.png"
+  },
+  {
+    "validatorKeys": {
+      "identity": "Love31pnbDJNVzZZVbtV4h2ftvTPVcBpXW11BSTCa6s",
+      "voteAccount": "Love31JHTTweTzCu3BjyjhXJadjRrd57hiNZn7M1fLj"
+    },
+    "currentStake": 7571201229985,
+    "transientStakeLamports": 0,
+    "logo": "https://media.stakewiz.com/Love31JHTTweTzCu3BjyjhXJadjRrd57hiNZn7M1fLj-love-Validator.png"
+  },
+  {
+    "validatorKeys": {
+      "identity": "bay3wXfJsu9ds1zQBoQQ4DUwFGs3NP6q4gca9WM5G1z",
+      "voteAccount": "bay3rQMjiLPy6Nvi7tfNeVK26inBCxf88hKYyeKy64H"
+    },
+    "currentStake": 7570960686935,
+    "transientStakeLamports": 0,
+    "logo": "https://media.stakewiz.com/bay3rQMjiLPy6Nvi7tfNeVK26inBCxf88hKYyeKy64H-.png"
+  },
+  {
+    "validatorKeys": {
+      "identity": "5zuNci3TV79w6zLoJZzbZujMvkVZb2FcSPhgv9aT24AK",
+      "voteAccount": "76DafWkJ6pGK2hoD41HjrM4xTBhfKqrDYDazv13n5ir1"
+    },
+    "currentStake": 7567801714185,
+    "transientStakeLamports": 0,
+    "logo": "https://s3.amazonaws.com/keybase_processed_uploads/6a725c2bc377d43d538f6686cc5a2205_360_360.jpg"
+  },
+  {
+    "validatorKeys": {
+      "identity": "N43JWBg42ZoUFMkHsRUVbP7wGVdxaHKanqaF9BBNiFC",
+      "voteAccount": "vanFfAkyFXFnj6TpmVwet6pJBnS4nBWNcJiE5GEsZ4K"
+    },
+    "currentStake": 7571193384342,
+    "transientStakeLamports": 0,
+    "logo": "https://media.stakewiz.com/vanFfAkyFXFnj6TpmVwet6pJBnS4nBWNcJiE5GEsZ4K-quantix-gitlab-logo.png"
+  },
+  {
+    "validatorKeys": {
+      "identity": "STPTshazcjH6cZMHzQBrggFSPHXYCTRGB7ctqS1AjkH",
+      "voteAccount": "STPTPuWoyKzbWawom5DBndxkeRFAjW4PzJ2EjL1qeMW"
+    },
+    "currentStake": 7566473551724,
+    "transientStakeLamports": 0,
+    "logo": "https://media.stakewiz.com/STPTPuWoyKzbWawom5DBndxkeRFAjW4PzJ2EjL1qeMW-UvHnvoKu_400x400.png"
+  },
+  {
+    "validatorKeys": {
+      "identity": "CtzN7ysR5rX69qd168Aosbuc83mPozhi81bEHbG7ecNP",
+      "voteAccount": "CtzNnqzSLwNtkzi2yEWvq4w3GYQ5gSpCagqFZ5TbdSKb"
+    },
+    "currentStake": 7571201368906,
+    "transientStakeLamports": 0,
+    "logo": "https://media.stakewiz.com/CtzNnqzSLwNtkzi2yEWvq4w3GYQ5gSpCagqFZ5TbdSKb-citizennodebluelogo.png"
+  },
+  {
+    "validatorKeys": {
+      "identity": "gojir4WnhS7VS1JdbnanJMzaMfr4UD7KeX1ixWAHEmw",
+      "voteAccount": "goJiRADNdmfnJ4iWEyft7KaYMPTVsRba2Ee1akDEBXb"
+    },
+    "currentStake": 7571197981084,
+    "transientStakeLamports": 0,
+    "logo": "https://media.stakewiz.com/goJiRADNdmfnJ4iWEyft7KaYMPTVsRba2Ee1akDEBXb-gojira.png"
+  },
+  {
+    "validatorKeys": {
+      "identity": "YE11a5nVJtUNqsojkphYuWc7StqBzbCeFH6BjhAAUEV",
+      "voteAccount": "YE111yizdzBA7JQKMXjy9VSx1shKAczUbs3b3e6vKQH"
+    },
+    "currentStake": 7561973363638,
+    "transientStakeLamports": 0,
+    "logo": "https://media.stakewiz.com/YE111yizdzBA7JQKMXjy9VSx1shKAczUbs3b3e6vKQH-mellowyellow.png"
+  },
+  {
+    "validatorKeys": {
+      "identity": "soLStaCk5TiGCpeLKa9Fvv6f5JQGMa6S3uhLh826e9N",
+      "voteAccount": "soLStAckuvkHtNzHF1cwmeSRG1FzVxKxwsdWZ1yrHrz"
+    },
+    "currentStake": 7559568070559,
+    "transientStakeLamports": 0,
+    "logo": "https://media.stakewiz.com/soLStAckuvkHtNzHF1cwmeSRG1FzVxKxwsdWZ1yrHrz-solstack-whitebg.png"
+  },
+  {
+    "validatorKeys": {
+      "identity": "61QB1Evn9E3noQtpJm4auFYyHSXS5FPgqKtPgwJJfEQk",
+      "voteAccount": "5iZ5PQPy5Z9XDnkfoWPi6nvUgtxWnRFwZ36WaftPuaVM"
+    },
+    "currentStake": 7521506963024,
+    "transientStakeLamports": 0,
+    "logo": "https://media.stakewiz.com/5iZ5PQPy5Z9XDnkfoWPi6nvUgtxWnRFwZ36WaftPuaVM-meyerbro-validator-logo.png"
+  },
+  {
+    "validatorKeys": {
+      "identity": "3s97yjq2MhoPVPC3U9VeE3Z5S643Pweovg88ysvrQPw5",
+      "voteAccount": "D3QPJm7BDzzPeRG51YZSEz3LfV7GvFNu9NkcibzURxuj"
+    },
+    "currentStake": 7521509651032,
+    "transientStakeLamports": 0,
+    "logo": "https://media.stakewiz.com/D3QPJm7BDzzPeRG51YZSEz3LfV7GvFNu9NkcibzURxuj-logo.png"
+  },
+  {
+    "validatorKeys": {
+      "identity": "43Am3PKFeo9cACpqYL5Sk95rpVdxLw3Mc22PqRqZXEW2",
+      "voteAccount": "EBVj3uwSKZpqEb1K267JaPxDQhULVqCy6hYeQqjsPh81"
+    },
+    "currentStake": 7521509720383,
+    "transientStakeLamports": 0,
+    "logo": "https://media.stakewiz.com/EBVj3uwSKZpqEb1K267JaPxDQhULVqCy6hYeQqjsPh81-.png"
+  },
+  {
+    "validatorKeys": {
+      "identity": "hy1oMaD3ViyJ8i6w1xjP79zAWBBaRd1zWdTW8zYXnwu",
+      "voteAccount": "hy1oJTV2kX9acsqpwk7hbteqXFw9VDbWvbxoamFEufW"
+    },
+    "currentStake": 7520432971298,
+    "transientStakeLamports": 0,
+    "logo": "https://media.stakewiz.com/hy1oJTV2kX9acsqpwk7hbteqXFw9VDbWvbxoamFEufW-hylo.png"
+  },
+  {
+    "validatorKeys": {
+      "identity": "SaGAgdkowooXBrHihpmE8gsjf1dUG7n5SqnyJxYFnXJ",
+      "voteAccount": "sagasJDjjAHND4hien3bbo5xXkzCT5Ss6nKjyUJ45aw"
+    },
+    "currentStake": 7520416251461,
+    "transientStakeLamports": 0,
+    "logo": "https://media.stakewiz.com/sagasJDjjAHND4hien3bbo5xXkzCT5Ss6nKjyUJ45aw-.png"
+  },
+  {
+    "validatorKeys": {
+      "identity": "axy3tCRL3wmFMVG4c69rYurcf4fXhBo2RcuBj9ADnJ4",
+      "voteAccount": "axyQeKp44XqUnvC1jVHoeuAJ3j8wVnGeWtddeAcNYcF"
+    },
+    "currentStake": 7520431922019,
+    "transientStakeLamports": 0,
+    "logo": "https://media.stakewiz.com/axyQeKp44XqUnvC1jVHoeuAJ3j8wVnGeWtddeAcNYcF-Screenshot-2024-12-21-at-8-05-14-AM.png"
+  },
+  {
+    "validatorKeys": {
+      "identity": "eyeYaqg9e2L6xw7YwsSLm27eWJfhLNAm6ETQm8TXNoK",
+      "voteAccount": "eyeVhGmVEoPSWmQU2wP5WZmMihPBTCk7kMMm4VhuAKS"
+    },
+    "currentStake": 7521509546913,
+    "transientStakeLamports": 0,
+    "logo": "https://media.stakewiz.com/eyeVhGmVEoPSWmQU2wP5WZmMihPBTCk7kMMm4VhuAKS-EYENOTION%20PFP.png"
+  },
+  {
+    "validatorKeys": {
+      "identity": "Stsa15mLMK5mjvcdyKKF1stZ9QZWUNdK4Pkc87g8xD9",
+      "voteAccount": "stsaYQJUhKZDHSqndGtgo6jgbhVaHBSHhtfVWxCwrhD"
+    },
+    "currentStake": 7520414782350,
+    "transientStakeLamports": 0,
+    "logo": "https://media.stakewiz.com/stsaYQJUhKZDHSqndGtgo6jgbhVaHBSHhtfVWxCwrhD-za-square-01.png"
+  },
+  {
+    "validatorKeys": {
+      "identity": "8uPW9msN75rfaKiwy8y8NxEX5zSk2WejtVv5YhZr3jCo",
+      "voteAccount": "5daP6pZoPSak6UEKuRg2HHjvTPpqqwB113oNamGNKuuZ"
+    },
+    "currentStake": 7520414843080,
+    "transientStakeLamports": 0,
+    "logo": "https://media.stakewiz.com/5daP6pZoPSak6UEKuRg2HHjvTPpqqwB113oNamGNKuuZ-.png"
+  },
+  {
+    "validatorKeys": {
+      "identity": "AsMpvJ3DZ2Ydu1WTRMAyMH4QjSLiUG39rKzfzvtE1bWr",
+      "voteAccount": "B1w6SZcyvjyp6zEyStcc8u9AxXAh2AbYvNzMmP9rRKE9"
+    },
+    "currentStake": 7521506242056,
+    "transientStakeLamports": 0,
+    "logo": "https://media.stakewiz.com/B1w6SZcyvjyp6zEyStcc8u9AxXAh2AbYvNzMmP9rRKE9-.png"
+  },
+  {
+    "validatorKeys": {
+      "identity": "meshRrDTME9cL2FSQ9E56EncfkZ7vL8apwcCFsw3o6Y",
+      "voteAccount": "mesh3Px7WMi7Dkxke4ZZBULoKHM6sp37wKtg4DwPqPY"
+    },
+    "currentStake": 7520414393178,
+    "transientStakeLamports": 0,
+    "logo": "https://media.stakewiz.com/mesh3Px7WMi7Dkxke4ZZBULoKHM6sp37wKtg4DwPqPY-logo.png"
+  },
+  {
+    "validatorKeys": {
+      "identity": "gridqZmeBcsUKT2Mv4M9YFHFN3tVLFb2TCtTcLD1cAd",
+      "voteAccount": "gridZ5cMHjWGktAQt6o36NtF7XSv19nJBrW83zmo7BM"
+    },
+    "currentStake": 7520411825188,
+    "transientStakeLamports": 0,
+    "logo": "https://media.stakewiz.com/gridZ5cMHjWGktAQt6o36NtF7XSv19nJBrW83zmo7BM-logo.png"
+  },
+  {
+    "validatorKeys": {
+      "identity": "bookoVmqw4QjVj5BbkFacouadx9M7816wyRkfM7A5Lo",
+      "voteAccount": "bookLxG3LkSmt4htJ1x9zPw6E34RRMAi7sUn5mM3CNN"
+    },
+    "currentStake": 7520414487493,
+    "transientStakeLamports": 0,
+    "logo": "https://media.stakewiz.com/bookLxG3LkSmt4htJ1x9zPw6E34RRMAi7sUn5mM3CNN-.png"
+  },
+  {
+    "validatorKeys": {
+      "identity": "ACTGYsH7bHbaSP7z9N86oLPHBThAELbGfTboc1VoFeZz",
+      "voteAccount": "DMPhNJFSvi34NmfcqR4B5rdKgDYY3kZbXpdXJBL4cJ1q"
+    },
+    "currentStake": 7520392206235,
+    "transientStakeLamports": 0,
+    "logo": "https://media.stakewiz.com/DMPhNJFSvi34NmfcqR4B5rdKgDYY3kZbXpdXJBL4cJ1q-fsc.png"
+  },
+  {
+    "validatorKeys": {
+      "identity": "wetkjRRRDrSPAzHqfVHtFDbhNnejKm5UPfkHeccFCpo",
+      "voteAccount": "wetwJSUHT5afX3gP49q75gkz8FcCfvsw2kuSQ1UjT9R"
+    },
+    "currentStake": 7519563432437,
+    "transientStakeLamports": 0,
+    "logo": "https://media.stakewiz.com/wetwJSUHT5afX3gP49q75gkz8FcCfvsw2kuSQ1UjT9R-wetiko-large.png"
+  },
+  {
+    "validatorKeys": {
+      "identity": "grptonHnt7YSmJokGK9TJJTBXDT8ca4LSWMHCCfzzPa",
+      "voteAccount": "mnvkHm47ZmRKoSWuQZAfXLRiDPiKCq8PWkMWrp1Wwqe"
+    },
+    "currentStake": 7518813830585,
+    "transientStakeLamports": 0,
+    "logo": "https://media.stakewiz.com/mnvkHm47ZmRKoSWuQZAfXLRiDPiKCq8PWkMWrp1Wwqe-SDsFE_W9_400x400.png"
+  }
+]

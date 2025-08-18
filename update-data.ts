@@ -33,8 +33,9 @@ const main = async () => {
 		const voteAccountInfo = await connection.getAccountInfo(
 			v.voteAccountAddress,
 		);
-		if (!voteAccountInfo) continue;
 
+		if (!voteAccountInfo) continue;
+		v.transientStakeLamports;
 		// A Vote account has a known layout from @solana/web3.js utils
 		// First 4 bytes: version, next 32: nodePubkey, next 32: authorizedVoter
 		const nodePubkey = new PublicKey(voteAccountInfo.data.slice(4, 36));
