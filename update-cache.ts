@@ -15,8 +15,10 @@ type CacheStruct = {
 		voteAccount: string;
 	};
 	logo: string;
+	name: string;
 	currentStake: number;
 	transientStakeLamports: number;
+	currentStakeFromPool: number;
 };
 function delay(ms: number) {
 	return new Promise((resolve) => setTimeout(resolve, ms));
@@ -62,6 +64,11 @@ const main = async () => {
 			continue;
 		}
 
+		// removing validators with no stake
+		if (validatorStakeData.activeStakeLamports.toNumber() < 1) {
+			continue;
+		}
+
 		const stakewiz = await axios.get(
 			`https://api.stakewiz.com/validator/${validatorStakeData.voteAccountAddress.toBase58()}`,
 		);
@@ -71,10 +78,14 @@ const main = async () => {
 				identity: i.identity,
 				voteAccount: i.voteAccount,
 			},
-			currentStake: validatorStakeData.activeStakeLamports.toNumber(),
+			currentStake: parseInt(
+				(stakewiz.data.activated_stake * 1000_000_000).toFixed(0),
+			),
 			transientStakeLamports:
 				validatorStakeData.transientStakeLamports.toNumber(),
 			logo: stakewiz.data.image,
+			name: stakewiz.data.name,
+			currentStakeFromPool: validatorStakeData.activeStakeLamports.toNumber(),
 		};
 
 		dataToCache.push(p);
